@@ -1,8 +1,1 @@
-# uierp-genap-1920
-
-Selamat Datang di Kuliah Konfigurasi ERP Fasilkom UI.
-
-Repository ini berfungsi sebagai submission box Tugas Akhir.
-
-Silahkan membuat branch baru dengan format [npm_nama] untuk menyimpan ide modul serta source codenya.
-Contoh: 1506757661_May Iffah Rizki
+Ide modul untuk soal 8 UAS Konfigurasi ERP adalah berdasarkan modul yang sudah ada, yaitu QR Code Invoice. Taidnya ide yang ingin saya kembangkan adalah mengubah QR yang ada menjadi versi link yang sudah di-shorten dan dapat dicantumkan pada invoice. Namun, karena waktu yang belum cukup, saya baru berhasil menulis ulang modul QR code yang sudah ada. Seharusnya modul sudah dapat digunakan namun belum sempat disesuaikan ke versi yang direncanakan sebelumnya.
